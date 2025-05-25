@@ -50,7 +50,7 @@ This project provides a comprehensive, manual deployment guide for the ELK Stack
 
 ## 🔥 Technologies Used
 
-- **Operating System:** CentOS 7
+- **Operating System:** Amazon Linux
 - **Elasticsearch:** v8.11.1
 - **Kibana:** v8.8.2
 - **Logstash:** v8.11.2
