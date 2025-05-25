@@ -73,7 +73,15 @@ This project provides a comprehensive, manual deployment guide for the ELK Stack
 
 ## 📸 Screenshots (Optional)
 
-_Add Kibana screenshots here to show dashboards, log visualizations, or index patterns._
+![image](https://github.com/user-attachments/assets/3e97b7d5-07a3-4c7b-9241-3945a7cf86ee)
+![image](https://github.com/user-attachments/assets/5d577833-bf34-407d-a3b4-3611e189eba8)
+![image](https://github.com/user-attachments/assets/c20e9a6d-b72c-465e-ad44-ae59675e4e80)
+![image](https://github.com/user-attachments/assets/593dafb4-9f74-4cba-b6ab-da6a909dadde)
+![image](https://github.com/user-attachments/assets/d6b3553c-d0ff-4951-9fe1-b2fc8ec88d07)
+![image](https://github.com/user-attachments/assets/1bd2c98b-60ca-4999-9036-ae4517b75614)
+
+
+
 
 ---
 
@@ -93,4 +101,5 @@ DevOps / Systems Engineer
 ## ✅ License
 
 This guide is open for learning and contribution. Feel free to fork and extend.
+📄 [Download the full deployment guide (PDF)](./Guide_ELK-Stack-Deployment.pdf)
 
